@@ -1,2 +1,8 @@
 master
 registry/config.php
+registry/config.php
+registry/mysqldb.class.php
+registry/page.class.php
+registry/registry.php
+registry/template.class.php
+registry/urls.class.php
