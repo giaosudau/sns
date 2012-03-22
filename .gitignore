@@ -6,3 +6,5 @@ registry/page.class.php
 registry/registry.php
 registry/template.class.php
 registry/urls.class.php
+master
+registry
